@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hassan-08
+- 👋 Hi, I’m Hassan Mushtaq
 - 👀 I’m interested in programming, specifically in data science
 - 🌱 I’m currently learning data science and engineering using python
 - 💞️ I’m looking to collaborate on programming projects using python as scripting language
